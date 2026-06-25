@@ -3,4 +3,4 @@
 Physics-Informed Neural Networks for orbital mechanics.
 
 See:
-- notebooks/01_orbital_pinn.ipynb
+- notebooks/01_orbital_mechanics_baseline.ipynb
