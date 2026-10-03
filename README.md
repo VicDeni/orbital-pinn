@@ -51,3 +51,10 @@ Then open either notebook in VS Code or Jupyter and run the cells from top to bo
 
 - Phase 1 complete
 - Phase 2 in progress
+
+
+## Future Work
+
+- Replace synthetic telescope images with real satellite imagery datasets (e.g., Stanford's SPEED/SPARK pose-estimation datasets) to validate the vision model against real-world data.
+- Extend the disturbance model beyond atmospheric drag (e.g., solar radiation pressure, third-body perturbations).
+- Explore more advanced sensor fusion techniques (e.g., Kalman filtering) as an alternative/complement to the neural correction approach.
